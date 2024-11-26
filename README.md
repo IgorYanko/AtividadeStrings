@@ -1,4 +1,4 @@
-# AtividadeStrings
+# Atividade Strings
 Atividades de strings do Marcão
 
 1) Leitura de strings
